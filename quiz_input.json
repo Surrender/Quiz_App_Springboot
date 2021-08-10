@@ -1,0 +1,56 @@
+[
+  {
+    "questionTitle": "When is the Independence Day?",
+    "correctAnswer": "15th Aug",
+    "answers": [
+      {
+        "answerTitle": "26th Jan"
+      },
+      {
+        "answerTitle": "26th Aug"
+      },
+      {
+        "answerTitle": "15th Jan"
+      },
+      {
+        "answerTitle": "15th Aug"
+      }
+    ]
+  },
+  {
+    "questionTitle": "When is the Republic Day?",
+    "correctAnswer": "26th Jan",
+    "answers": [
+      {
+        "answerTitle": "15th Jan"
+      },
+      {
+        "answerTitle": "26th Jan"
+      },
+      {
+        "answerTitle": "26th Aug"
+      },
+      {
+        "answerTitle": "15th Aug"
+      }
+    ]
+  },
+  {
+    "questionTitle": "When is the New Year Day?",
+    "correctAnswer": "1st Jan",
+    "answers": [
+      {
+        "answerTitle": "15th Jan"
+      },
+      {
+        "answerTitle": "1st Jan"
+      },
+      {
+        "answerTitle": "26th Aug"
+      },
+      {
+        "answerTitle": "15th Aug"
+      }
+    ]
+  }
+]
